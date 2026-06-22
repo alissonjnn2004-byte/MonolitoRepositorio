@@ -5,7 +5,7 @@ pipeline {
 
     environment {
         // Rutas a las herramientas necesarias en el agente Windows
-        MSBUILD = "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\MSBuild\\Current\\Bin\\MSBuild.exe" // Ajusta según tu versión
+        MSBUILD = "C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Current\Bin\MSBuild.exe" // Ajusta según tu versión
         NUGET = "C:\\Herramientas\\nuget.exe" // Ajusta la ruta a donde tengas nuget.exe
         IIS_SITE_NAME = "Default Web Site/Monolito"
         PUBLISH_DIR = "C:\\inetpub\\wwwroot\\Monolito"
