@@ -1,0 +1,423 @@
+<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Principal.Master.cs" Inherits="Monolito4am.Mantenimiento.Principal" %>
+
+<!DOCTYPE html>
+<html lang="es">
+<head runat="server">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Monolito 4AM</title>
+    
+    <!-- Librerías Modernas Comunes -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+
+    <style>
+        :root {
+            --primary-color: #7caf6e;
+            --primary-light: #e8f0e5;
+            --secondary-color: #9b7bdf;
+            --accent-color: #ffb7a8;
+            --text-color: #4a5568;
+            --bg-gradient: linear-gradient(135deg, #f5fbf7 0%, #f0f4ff 50%, #fef8f8 100%);
+            --sidebar-width: 280px;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+        body {
+            background: var(--bg-gradient);
+            color: var(--text-color);
+            min-height: 100vh;
+            display: flex;
+            overflow-x: hidden;
+        }
+
+        /* Contenedor Principal */
+        #form1 {
+            display: flex;
+            width: 100%;
+            min-height: 100vh;
+        }
+
+        /* Barra Lateral (Sidebar) */
+        .sidebar {
+            width: var(--sidebar-width);
+            background: rgba(255, 255, 255, 0.95);
+            backdrop-filter: blur(10px);
+            border-right: 1px solid rgba(232, 240, 229, 0.8);
+            display: flex;
+            flex-direction: column;
+            position: fixed;
+            top: 0;
+            bottom: 0;
+            left: 0;
+            z-index: 100;
+            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+            box-shadow: 10px 0 30px rgba(0, 0, 0, 0.02);
+        }
+
+        .sidebar-brand {
+            padding: 30px 25px;
+            display: flex;
+            align-items: center;
+            gap: 15px;
+            border-bottom: 1px solid #f0f4ff;
+        }
+
+        .sidebar-brand i {
+            font-size: 28px;
+            background: linear-gradient(135deg, var(--primary-color), var(--secondary-color));
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            filter: drop-shadow(0 4px 6px rgba(124, 175, 110, 0.2));
+        }
+
+        .sidebar-brand span {
+            font-weight: 700;
+            font-size: 20px;
+            color: var(--text-color);
+            letter-spacing: -0.5px;
+        }
+
+        .sidebar-menu {
+            list-style: none;
+            padding: 25px 15px;
+            display: flex;
+            flex-direction: column;
+            gap: 8px;
+            flex-grow: 1;
+        }
+
+        .menu-item {
+            width: 100%;
+        }
+
+        .menu-link {
+            display: flex;
+            align-items: center;
+            gap: 15px;
+            padding: 12px 20px;
+            color: #718096;
+            text-decoration: none;
+            border-radius: 16px;
+            font-weight: 500;
+            font-size: 14px;
+            transition: all 0.3s ease;
+        }
+
+        .menu-link i {
+            font-size: 18px;
+            transition: transform 0.3s ease;
+        }
+
+        .menu-link:hover {
+            background: var(--primary-light);
+            color: var(--primary-color);
+        }
+
+        .menu-link:hover i {
+            transform: scale(1.1);
+        }
+
+        .menu-link.active {
+            background: linear-gradient(135deg, var(--primary-light), rgba(124, 175, 110, 0.15));
+            color: var(--primary-color);
+            font-weight: 600;
+        }
+
+        .sidebar-footer {
+            padding: 20px;
+            border-top: 1px solid #f0f4ff;
+            background: rgba(255, 255, 255, 0.95);
+        }
+
+        .footer-info {
+            text-align: center;
+            font-size: 11px;
+            color: #a0aec0;
+            margin-top: 15px;
+            padding-top: 15px;
+            border-top: 1px dashed #e8f0e5;
+        }
+
+        .sidebar-profile {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            padding: 10px;
+            border-radius: 16px;
+            background: #fafaf5;
+        }
+
+        .profile-avatar {
+            width: 40px;
+            height: 40px;
+            border-radius: 50%;
+            background: linear-gradient(135deg, var(--primary-color), var(--secondary-color));
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: white;
+            font-weight: 600;
+        }
+
+        .profile-info {
+            display: flex;
+            flex-direction: column;
+            overflow: hidden;
+        }
+
+        .profile-name {
+            font-size: 13px;
+            font-weight: 600;
+            color: var(--text-color);
+            white-space: nowrap;
+            text-overflow: ellipsis;
+            overflow: hidden;
+        }
+
+        .profile-role {
+            font-size: 11px;
+            color: #a0aec0;
+        }
+
+        /* Area de Contenido */
+        .main-wrapper {
+            margin-left: var(--sidebar-width);
+            display: flex;
+            flex-direction: column;
+            flex-grow: 1;
+            min-height: 100vh;
+            transition: all 0.3s ease;
+            width: calc(100% - var(--sidebar-width));
+        }
+
+        /* Header Superior */
+        .topbar {
+            height: 80px;
+            background: rgba(255, 255, 255, 0.85);
+            backdrop-filter: blur(10px);
+            border-bottom: 1px solid rgba(232, 240, 229, 0.8);
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 0 40px;
+            position: sticky;
+            top: 0;
+            z-index: 99;
+        }
+
+        .toggle-btn {
+            display: none;
+            background: none;
+            border: none;
+            font-size: 22px;
+            color: var(--text-color);
+            cursor: pointer;
+        }
+
+        .topbar-actions {
+            display: flex;
+            align-items: center;
+            gap: 20px;
+        }
+
+        .btn-logout {
+            background: linear-gradient(135deg, #ffcdb0, #ffbc96);
+            color: #c5784a;
+            padding: 10px 20px;
+            border-radius: 14px;
+            font-size: 13px;
+            font-weight: 600;
+            border: none;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            transition: all 0.3s ease;
+            box-shadow: 0 4px 10px rgba(255, 180, 130, 0.2);
+            text-decoration: none;
+        }
+
+        .btn-logout:hover {
+            transform: translateY(-1px);
+            box-shadow: 0 6px 15px rgba(255, 180, 130, 0.3);
+            filter: brightness(1.05);
+            color: #c5784a;
+        }
+
+        /* Area de Contenido Central */
+        .content-area {
+            padding: 40px;
+            flex-grow: 1;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .content-card {
+            background: rgba(255, 255, 255, 0.95);
+            border-radius: 35px;
+            padding: 35px;
+            box-shadow: 0 20px 50px rgba(100, 120, 80, 0.05), 0 0 0 1px rgba(255, 255, 255, 0.8);
+            flex-grow: 1;
+            display: flex;
+            flex-direction: column;
+            animation: fadeIn 0.5s ease-out;
+        }
+
+        @keyframes fadeIn {
+            from {
+                opacity: 0;
+                transform: translateY(20px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        /* Responsive */
+        @media (max-width: 992px) {
+            .sidebar {
+                left: -280px;
+            }
+
+            .sidebar.active {
+                left: 0;
+            }
+
+            .main-wrapper {
+                margin-left: 0;
+                width: 100%;
+            }
+
+            .toggle-btn {
+                display: block;
+            }
+        }
+    </style>
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        
+        <!-- Sidebar -->
+        <aside class="sidebar" id="sidebarMenu">
+            <div class="sidebar-brand">
+                <i class="fas fa-leaf"></i>
+                <span>Monolito 4AM</span>
+            </div>
+            
+            <ul class="sidebar-menu">
+                <li class="menu-item">
+                    <a href="<%= ResolveUrl("~/Seguridad/MenuAdministrador.aspx") %>" id="menuHome" class="menu-link">
+                        <i class="fas fa-users-cog"></i>
+                        <span style="text-transform: uppercase;">Gestion Usuarios</span>
+                    </a>
+                </li>
+                <li class="menu-item">
+                    <a href="<%= ResolveUrl("~/Seguridad/CrudProveedor.aspx") %>" id="menuProv" class="menu-link">
+                        <i class="fas fa-truck"></i>
+                        <span style="text-transform: uppercase;">Proveedores</span>
+                    </a>
+                </li>
+                <li class="menu-item">
+                    <a href="<%= ResolveUrl("~/Seguridad/CrudProducto.aspx") %>" id="menuProd" class="menu-link">
+                        <i class="fas fa-boxes"></i>
+                        <span style="text-transform: uppercase;">Productos</span>
+                    </a>
+                </li>
+                <li class="menu-item">
+                    <a href="<%= ResolveUrl("~/Seguridad/ImportacionExcel.aspx") %>" id="menuExcel" class="menu-link">
+                        <i class="fas fa-file-excel"></i>
+                        <span style="text-transform: uppercase;">Importación Excel</span>
+                    </a>
+                </li>
+                <li class="menu-item">
+                    <a href="<%= ResolveUrl("~/Seguridad/CarruselProductos.aspx") %>" id="menuTienda" class="menu-link">
+                        <i class="fas fa-store"></i>
+                        <span style="text-transform: uppercase;">Carrusel de Productos</span>
+                    </a>
+                </li>
+            </ul>
+
+            <div class="sidebar-footer">
+                <div class="sidebar-profile">
+                    <div class="profile-avatar">
+                        <asp:Label ID="lblAvatarInitials" runat="server" Text="U" />
+                    </div>
+                    <div class="profile-info">
+                        <asp:Label ID="lblUsername" runat="server" CssClass="profile-name" Text="Usuario" />
+                        <span class="profile-role">
+                            <asp:Label ID="lblUserRole" runat="server" Text="Administrador" />
+                        </span>
+                    </div>
+                </div>
+                <div class="footer-info">
+                    &copy; <%: DateTime.Now.Year %> Monolito 4AM<br />
+                    Versión 1.0
+                </div>
+            </div>
+        </aside>
+
+        <!-- Main Wrapper -->
+        <div class="main-wrapper">
+            
+            <!-- Top Header -->
+            <header class="topbar">
+                <button type="button" class="toggle-btn" onclick="toggleSidebar()">
+                    <i class="fas fa-bars"></i>
+                </button>
+
+                <div class="topbar-title">
+                    <h4 style="font-weight: 700; color: #5d6b5e; margin: 0;">Panel Principal</h4>
+                </div>
+
+                <div class="topbar-actions">
+                    <asp:LinkButton ID="btnCerrarSesionGlobal" runat="server" OnClick="btnCerrarSesionGlobal_Click" CssClass="btn-logout" CausesValidation="false">
+                        <i class="fas fa-sign-out-alt"></i> Cerrar Sesión
+                    </asp:LinkButton>
+                </div>
+            </header>
+
+            <!-- Main Content Area -->
+            <main class="content-area">
+                <div class="content-card">
+                    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                    </asp:ContentPlaceHolder>
+                </div>
+            </main>
+        </div>
+
+    </form>
+
+    <script>
+        function toggleSidebar() {
+            var sidebar = document.getElementById('sidebarMenu');
+            sidebar.classList.toggle('active');
+        }
+
+        // Resaltar el enlace activo según la URL
+        document.addEventListener("DOMContentLoaded", function () {
+            var currentUrl = window.location.pathname.toLowerCase();
+            var links = document.querySelectorAll(".menu-link");
+            links.forEach(function (link) {
+                var linkUrl = link.getAttribute("href").split('?')[0].toLowerCase();
+                if (currentUrl.indexOf(linkUrl) !== -1 || linkUrl.indexOf(currentUrl) !== -1) {
+                    link.classList.add("active");
+                }
+            });
+        });
+    </script>
+</body>
+</html>

@@ -1,0 +1,70 @@
+D:\DESCARGAS\.NET PRA\Monolito_4am\Capa_Datos\bin\Debug\Capa_Datos.dll.config
+D:\DESCARGAS\.NET PRA\Monolito_4am\Capa_Datos\bin\Debug\Capa_Datos.dll
+D:\DESCARGAS\.NET PRA\Monolito_4am\Capa_Datos\bin\Debug\Capa_Datos.pdb
+D:\DESCARGAS\.NET PRA\Monolito_4am\Capa_Datos\obj\Debug\Capa_Datos.csproj.AssemblyReference.cache
+D:\DESCARGAS\.NET PRA\Monolito_4am\Capa_Datos\obj\Debug\Capa_Datos.csproj.CoreCompileInputs.cache
+D:\DESCARGAS\.NET PRA\Monolito_4am\Capa_Datos\obj\Debug\Capa_Datos.dll
+D:\DESCARGAS\.NET PRA\Monolito_4am\Capa_Datos\obj\Debug\Capa_Datos.pdb
+D:\Desktop\Monolito_4am\Capa_Datos\bin\Debug\Capa_Datos.dll.config
+D:\Desktop\Monolito_4am\Capa_Datos\bin\Debug\Capa_Datos.dll
+D:\Desktop\Monolito_4am\Capa_Datos\bin\Debug\Capa_Datos.pdb
+D:\Desktop\Monolito_4am\Capa_Datos\obj\Debug\Capa_Datos.csproj.AssemblyReference.cache
+D:\Desktop\Monolito_4am\Capa_Datos\obj\Debug\Capa_Datos.csproj.CoreCompileInputs.cache
+D:\Desktop\Monolito_4am\Capa_Datos\obj\Debug\Capa_Datos.dll
+D:\Desktop\Monolito_4am\Capa_Datos\obj\Debug\Capa_Datos.pdb
+C:\Users\User\Desktop\Monolito_4am\Monolito_4am\Capa_Datos\bin\Debug\Capa_Datos.dll.config
+C:\Users\User\Desktop\Monolito_4am\Monolito_4am\Capa_Datos\bin\Debug\Capa_Datos.dll
+C:\Users\User\Desktop\Monolito_4am\Monolito_4am\Capa_Datos\bin\Debug\Capa_Datos.pdb
+C:\Users\User\Desktop\Monolito_4am\Monolito_4am\Capa_Datos\obj\Debug\Capa_Datos.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Monolito_4am\Monolito_4am\Capa_Datos\obj\Debug\Capa_Datos.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Monolito_4am\Monolito_4am\Capa_Datos\obj\Debug\Capa_Datos.dll
+C:\Users\User\Desktop\Monolito_4am\Monolito_4am\Capa_Datos\obj\Debug\Capa_Datos.pdb
+C:\Users\User\source\4A\Monolito_4am\Capa_Datos\bin\Debug\Capa_Datos.dll.config
+C:\Users\User\source\4A\Monolito_4am\Capa_Datos\bin\Debug\Capa_Datos.dll
+C:\Users\User\source\4A\Monolito_4am\Capa_Datos\bin\Debug\Capa_Datos.pdb
+C:\Users\User\source\4A\Monolito_4am\Capa_Datos\obj\Debug\Capa_Datos.csproj.AssemblyReference.cache
+C:\Users\User\source\4A\Monolito_4am\Capa_Datos\obj\Debug\Capa_Datos.csproj.CoreCompileInputs.cache
+C:\Users\User\source\4A\Monolito_4am\Capa_Datos\obj\Debug\Capa_Datos.dll
+C:\Users\User\source\4A\Monolito_4am\Capa_Datos\obj\Debug\Capa_Datos.pdb
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Capa_Datos\bin\Debug\Capa_Datos.dll.config
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Capa_Datos\bin\Debug\Capa_Datos.dll
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Capa_Datos\bin\Debug\Capa_Datos.pdb
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Capa_Datos\bin\Debug\DnsClient.dll
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Capa_Datos\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Capa_Datos\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Capa_Datos\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Capa_Datos\bin\Debug\MongoDB.Bson.dll
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Capa_Datos\bin\Debug\MongoDB.Driver.dll
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Capa_Datos\bin\Debug\SharpCompress.dll
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Capa_Datos\bin\Debug\Snappier.dll
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Capa_Datos\bin\Debug\System.Buffers.dll
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Capa_Datos\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Capa_Datos\bin\Debug\System.Memory.dll
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Capa_Datos\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Capa_Datos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Capa_Datos\bin\Debug\System.Security.AccessControl.dll
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Capa_Datos\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Capa_Datos\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Capa_Datos\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Capa_Datos\bin\Debug\ZstdSharp.dll
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Capa_Datos\bin\Debug\DnsClient.xml
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Capa_Datos\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Capa_Datos\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Capa_Datos\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Capa_Datos\bin\Debug\MongoDB.Bson.xml
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Capa_Datos\bin\Debug\MongoDB.Driver.xml
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Capa_Datos\bin\Debug\Snappier.xml
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Capa_Datos\bin\Debug\System.Buffers.xml
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Capa_Datos\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Capa_Datos\bin\Debug\System.Memory.xml
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Capa_Datos\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Capa_Datos\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Capa_Datos\bin\Debug\System.Security.AccessControl.xml
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Capa_Datos\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Capa_Datos\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Capa_Datos\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Capa_Datos\obj\Debug\Capa_Datos.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Capa_Datos\obj\Debug\Capa_Datos.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Capa_Datos\obj\Debug\Capa_Datos.csproj.Up2Date
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Capa_Datos\obj\Debug\Capa_Datos.dll
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Capa_Datos\obj\Debug\Capa_Datos.pdb

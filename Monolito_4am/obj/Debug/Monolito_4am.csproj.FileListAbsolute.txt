@@ -1,0 +1,425 @@
+D:\DESCARGAS\.NET PRA\Monolito_4am\Monolito_4am\bin\Monolito_4am.dll.config
+D:\DESCARGAS\.NET PRA\Monolito_4am\Monolito_4am\bin\Monolito_4am.dll
+D:\DESCARGAS\.NET PRA\Monolito_4am\Monolito_4am\bin\Monolito_4am.pdb
+D:\DESCARGAS\.NET PRA\Monolito_4am\Monolito_4am\bin\roslyn\csc.exe
+D:\DESCARGAS\.NET PRA\Monolito_4am\Monolito_4am\bin\roslyn\csc.exe.config
+D:\DESCARGAS\.NET PRA\Monolito_4am\Monolito_4am\bin\roslyn\csc.rsp
+D:\DESCARGAS\.NET PRA\Monolito_4am\Monolito_4am\bin\roslyn\csi.exe
+D:\DESCARGAS\.NET PRA\Monolito_4am\Monolito_4am\bin\roslyn\csi.exe.config
+D:\DESCARGAS\.NET PRA\Monolito_4am\Monolito_4am\bin\roslyn\csi.rsp
+D:\DESCARGAS\.NET PRA\Monolito_4am\Monolito_4am\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\DESCARGAS\.NET PRA\Monolito_4am\Monolito_4am\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\DESCARGAS\.NET PRA\Monolito_4am\Monolito_4am\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\DESCARGAS\.NET PRA\Monolito_4am\Monolito_4am\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\DESCARGAS\.NET PRA\Monolito_4am\Monolito_4am\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\DESCARGAS\.NET PRA\Monolito_4am\Monolito_4am\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\DESCARGAS\.NET PRA\Monolito_4am\Monolito_4am\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\DESCARGAS\.NET PRA\Monolito_4am\Monolito_4am\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\DESCARGAS\.NET PRA\Monolito_4am\Monolito_4am\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\DESCARGAS\.NET PRA\Monolito_4am\Monolito_4am\bin\roslyn\Microsoft.Managed.Core.targets
+D:\DESCARGAS\.NET PRA\Monolito_4am\Monolito_4am\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\DESCARGAS\.NET PRA\Monolito_4am\Monolito_4am\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\DESCARGAS\.NET PRA\Monolito_4am\Monolito_4am\bin\roslyn\System.AppContext.dll
+D:\DESCARGAS\.NET PRA\Monolito_4am\Monolito_4am\bin\roslyn\System.Collections.Immutable.dll
+D:\DESCARGAS\.NET PRA\Monolito_4am\Monolito_4am\bin\roslyn\System.Console.dll
+D:\DESCARGAS\.NET PRA\Monolito_4am\Monolito_4am\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\DESCARGAS\.NET PRA\Monolito_4am\Monolito_4am\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\DESCARGAS\.NET PRA\Monolito_4am\Monolito_4am\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\DESCARGAS\.NET PRA\Monolito_4am\Monolito_4am\bin\roslyn\System.Globalization.Calendars.dll
+D:\DESCARGAS\.NET PRA\Monolito_4am\Monolito_4am\bin\roslyn\System.IO.Compression.dll
+D:\DESCARGAS\.NET PRA\Monolito_4am\Monolito_4am\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\DESCARGAS\.NET PRA\Monolito_4am\Monolito_4am\bin\roslyn\System.IO.FileSystem.dll
+D:\DESCARGAS\.NET PRA\Monolito_4am\Monolito_4am\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\DESCARGAS\.NET PRA\Monolito_4am\Monolito_4am\bin\roslyn\System.Net.Http.dll
+D:\DESCARGAS\.NET PRA\Monolito_4am\Monolito_4am\bin\roslyn\System.Net.Sockets.dll
+D:\DESCARGAS\.NET PRA\Monolito_4am\Monolito_4am\bin\roslyn\System.Reflection.Metadata.dll
+D:\DESCARGAS\.NET PRA\Monolito_4am\Monolito_4am\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\DESCARGAS\.NET PRA\Monolito_4am\Monolito_4am\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\DESCARGAS\.NET PRA\Monolito_4am\Monolito_4am\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\DESCARGAS\.NET PRA\Monolito_4am\Monolito_4am\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\DESCARGAS\.NET PRA\Monolito_4am\Monolito_4am\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\DESCARGAS\.NET PRA\Monolito_4am\Monolito_4am\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\DESCARGAS\.NET PRA\Monolito_4am\Monolito_4am\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\DESCARGAS\.NET PRA\Monolito_4am\Monolito_4am\bin\roslyn\System.ValueTuple.dll
+D:\DESCARGAS\.NET PRA\Monolito_4am\Monolito_4am\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\DESCARGAS\.NET PRA\Monolito_4am\Monolito_4am\bin\roslyn\System.Xml.XmlDocument.dll
+D:\DESCARGAS\.NET PRA\Monolito_4am\Monolito_4am\bin\roslyn\System.Xml.XPath.dll
+D:\DESCARGAS\.NET PRA\Monolito_4am\Monolito_4am\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\DESCARGAS\.NET PRA\Monolito_4am\Monolito_4am\bin\roslyn\vbc.exe
+D:\DESCARGAS\.NET PRA\Monolito_4am\Monolito_4am\bin\roslyn\vbc.exe.config
+D:\DESCARGAS\.NET PRA\Monolito_4am\Monolito_4am\bin\roslyn\vbc.rsp
+D:\DESCARGAS\.NET PRA\Monolito_4am\Monolito_4am\bin\roslyn\VBCSCompiler.exe
+D:\DESCARGAS\.NET PRA\Monolito_4am\Monolito_4am\bin\roslyn\VBCSCompiler.exe.config
+D:\DESCARGAS\.NET PRA\Monolito_4am\Monolito_4am\bin\Antlr3.Runtime.dll
+D:\DESCARGAS\.NET PRA\Monolito_4am\Monolito_4am\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\DESCARGAS\.NET PRA\Monolito_4am\Monolito_4am\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\DESCARGAS\.NET PRA\Monolito_4am\Monolito_4am\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\DESCARGAS\.NET PRA\Monolito_4am\Monolito_4am\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\DESCARGAS\.NET PRA\Monolito_4am\Monolito_4am\bin\Microsoft.ScriptManager.WebForms.dll
+D:\DESCARGAS\.NET PRA\Monolito_4am\Monolito_4am\bin\Microsoft.Web.Infrastructure.dll
+D:\DESCARGAS\.NET PRA\Monolito_4am\Monolito_4am\bin\Newtonsoft.Json.dll
+D:\DESCARGAS\.NET PRA\Monolito_4am\Monolito_4am\bin\System.Web.Optimization.dll
+D:\DESCARGAS\.NET PRA\Monolito_4am\Monolito_4am\bin\WebGrease.dll
+D:\DESCARGAS\.NET PRA\Monolito_4am\Monolito_4am\bin\System.Web.Optimization.xml
+D:\DESCARGAS\.NET PRA\Monolito_4am\Monolito_4am\bin\Newtonsoft.Json.xml
+D:\DESCARGAS\.NET PRA\Monolito_4am\Monolito_4am\bin\Antlr3.Runtime.pdb
+D:\DESCARGAS\.NET PRA\Monolito_4am\Monolito_4am\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\DESCARGAS\.NET PRA\Monolito_4am\Monolito_4am\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\DESCARGAS\.NET PRA\Monolito_4am\Monolito_4am\bin\es\System.Web.Optimization.resources.dll
+D:\DESCARGAS\.NET PRA\Monolito_4am\Monolito_4am\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+D:\DESCARGAS\.NET PRA\Monolito_4am\Monolito_4am\obj\Debug\Monolito_4am.csproj.AssemblyReference.cache
+D:\DESCARGAS\.NET PRA\Monolito_4am\Monolito_4am\obj\Debug\Monolito_4am.csproj.CoreCompileInputs.cache
+D:\DESCARGAS\.NET PRA\Monolito_4am\Monolito_4am\obj\Debug\Monolito.B328F4D0.Up2Date
+D:\DESCARGAS\.NET PRA\Monolito_4am\Monolito_4am\obj\Debug\Monolito_4am.dll
+D:\DESCARGAS\.NET PRA\Monolito_4am\Monolito_4am\obj\Debug\Monolito_4am.pdb
+D:\DESCARGAS\.NET PRA\Monolito_4am\Monolito_4am\bin\Capa_Datos.dll
+D:\DESCARGAS\.NET PRA\Monolito_4am\Monolito_4am\bin\Capa_Negocio.dll
+D:\DESCARGAS\.NET PRA\Monolito_4am\Monolito_4am\bin\Capa_Datos.pdb
+D:\DESCARGAS\.NET PRA\Monolito_4am\Monolito_4am\bin\Capa_Datos.dll.config
+D:\DESCARGAS\.NET PRA\Monolito_4am\Monolito_4am\bin\Capa_Negocio.pdb
+D:\Desktop\Monolito_4am\Monolito_4am\bin\Monolito_4am.dll.config
+D:\Desktop\Monolito_4am\Monolito_4am\bin\Monolito_4am.dll
+D:\Desktop\Monolito_4am\Monolito_4am\bin\Monolito_4am.pdb
+D:\Desktop\Monolito_4am\Monolito_4am\bin\roslyn\csc.exe
+D:\Desktop\Monolito_4am\Monolito_4am\bin\roslyn\csc.exe.config
+D:\Desktop\Monolito_4am\Monolito_4am\bin\roslyn\csc.rsp
+D:\Desktop\Monolito_4am\Monolito_4am\bin\roslyn\csi.exe
+D:\Desktop\Monolito_4am\Monolito_4am\bin\roslyn\csi.exe.config
+D:\Desktop\Monolito_4am\Monolito_4am\bin\roslyn\csi.rsp
+D:\Desktop\Monolito_4am\Monolito_4am\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Desktop\Monolito_4am\Monolito_4am\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Desktop\Monolito_4am\Monolito_4am\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Desktop\Monolito_4am\Monolito_4am\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Desktop\Monolito_4am\Monolito_4am\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Desktop\Monolito_4am\Monolito_4am\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Desktop\Monolito_4am\Monolito_4am\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Desktop\Monolito_4am\Monolito_4am\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Desktop\Monolito_4am\Monolito_4am\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Desktop\Monolito_4am\Monolito_4am\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+D:\Desktop\Monolito_4am\Monolito_4am\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Desktop\Monolito_4am\Monolito_4am\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Desktop\Monolito_4am\Monolito_4am\bin\roslyn\System.Buffers.dll
+D:\Desktop\Monolito_4am\Monolito_4am\bin\roslyn\System.Collections.Immutable.dll
+D:\Desktop\Monolito_4am\Monolito_4am\bin\roslyn\System.Memory.dll
+D:\Desktop\Monolito_4am\Monolito_4am\bin\roslyn\System.Numerics.Vectors.dll
+D:\Desktop\Monolito_4am\Monolito_4am\bin\roslyn\System.Reflection.Metadata.dll
+D:\Desktop\Monolito_4am\Monolito_4am\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+D:\Desktop\Monolito_4am\Monolito_4am\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Desktop\Monolito_4am\Monolito_4am\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Desktop\Monolito_4am\Monolito_4am\bin\roslyn\vbc.exe
+D:\Desktop\Monolito_4am\Monolito_4am\bin\roslyn\vbc.exe.config
+D:\Desktop\Monolito_4am\Monolito_4am\bin\roslyn\vbc.rsp
+D:\Desktop\Monolito_4am\Monolito_4am\bin\roslyn\VBCSCompiler.exe
+D:\Desktop\Monolito_4am\Monolito_4am\bin\roslyn\VBCSCompiler.exe.config
+D:\Desktop\Monolito_4am\Monolito_4am\bin\Antlr3.Runtime.dll
+D:\Desktop\Monolito_4am\Monolito_4am\bin\Capa_Datos.dll
+D:\Desktop\Monolito_4am\Monolito_4am\bin\Capa_Negocio.dll
+D:\Desktop\Monolito_4am\Monolito_4am\bin\MessagingToolkit.QRCode.dll
+D:\Desktop\Monolito_4am\Monolito_4am\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Desktop\Monolito_4am\Monolito_4am\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Desktop\Monolito_4am\Monolito_4am\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Desktop\Monolito_4am\Monolito_4am\bin\Microsoft.Bcl.Memory.dll
+D:\Desktop\Monolito_4am\Monolito_4am\bin\Microsoft.Bcl.TimeProvider.dll
+D:\Desktop\Monolito_4am\Monolito_4am\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Desktop\Monolito_4am\Monolito_4am\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Desktop\Monolito_4am\Monolito_4am\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Desktop\Monolito_4am\Monolito_4am\bin\Microsoft.IdentityModel.Abstractions.dll
+D:\Desktop\Monolito_4am\Monolito_4am\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Desktop\Monolito_4am\Monolito_4am\bin\Microsoft.IdentityModel.Logging.dll
+D:\Desktop\Monolito_4am\Monolito_4am\bin\Microsoft.IdentityModel.Tokens.dll
+D:\Desktop\Monolito_4am\Monolito_4am\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Desktop\Monolito_4am\Monolito_4am\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Desktop\Monolito_4am\Monolito_4am\bin\Microsoft.Web.Infrastructure.dll
+D:\Desktop\Monolito_4am\Monolito_4am\bin\Newtonsoft.Json.dll
+D:\Desktop\Monolito_4am\Monolito_4am\bin\QRCoder.dll
+D:\Desktop\Monolito_4am\Monolito_4am\bin\System.Buffers.dll
+D:\Desktop\Monolito_4am\Monolito_4am\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Desktop\Monolito_4am\Monolito_4am\bin\System.Drawing.Common.dll
+D:\Desktop\Monolito_4am\Monolito_4am\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\Desktop\Monolito_4am\Monolito_4am\bin\System.IO.Pipelines.dll
+D:\Desktop\Monolito_4am\Monolito_4am\bin\System.Memory.dll
+D:\Desktop\Monolito_4am\Monolito_4am\bin\System.Numerics.Vectors.dll
+D:\Desktop\Monolito_4am\Monolito_4am\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Desktop\Monolito_4am\Monolito_4am\bin\System.Text.Encodings.Web.dll
+D:\Desktop\Monolito_4am\Monolito_4am\bin\System.Text.Json.dll
+D:\Desktop\Monolito_4am\Monolito_4am\bin\System.Threading.Tasks.Extensions.dll
+D:\Desktop\Monolito_4am\Monolito_4am\bin\System.Web.Optimization.dll
+D:\Desktop\Monolito_4am\Monolito_4am\bin\Twilio.dll
+D:\Desktop\Monolito_4am\Monolito_4am\bin\WebGrease.dll
+D:\Desktop\Monolito_4am\Monolito_4am\bin\Capa_Datos.pdb
+D:\Desktop\Monolito_4am\Monolito_4am\bin\Capa_Datos.dll.config
+D:\Desktop\Monolito_4am\Monolito_4am\bin\Capa_Negocio.pdb
+D:\Desktop\Monolito_4am\Monolito_4am\bin\Capa_Negocio.dll.config
+D:\Desktop\Monolito_4am\Monolito_4am\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Desktop\Monolito_4am\Monolito_4am\bin\Microsoft.Bcl.Memory.xml
+D:\Desktop\Monolito_4am\Monolito_4am\bin\Microsoft.Bcl.TimeProvider.xml
+D:\Desktop\Monolito_4am\Monolito_4am\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Desktop\Monolito_4am\Monolito_4am\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Desktop\Monolito_4am\Monolito_4am\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Desktop\Monolito_4am\Monolito_4am\bin\Microsoft.IdentityModel.Abstractions.xml
+D:\Desktop\Monolito_4am\Monolito_4am\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\Desktop\Monolito_4am\Monolito_4am\bin\Microsoft.IdentityModel.Logging.xml
+D:\Desktop\Monolito_4am\Monolito_4am\bin\Microsoft.IdentityModel.Tokens.xml
+D:\Desktop\Monolito_4am\Monolito_4am\bin\Newtonsoft.Json.xml
+D:\Desktop\Monolito_4am\Monolito_4am\bin\QRCoder.xml
+D:\Desktop\Monolito_4am\Monolito_4am\bin\System.Buffers.xml
+D:\Desktop\Monolito_4am\Monolito_4am\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Desktop\Monolito_4am\Monolito_4am\bin\System.Drawing.Common.pdb
+D:\Desktop\Monolito_4am\Monolito_4am\bin\System.Drawing.Common.xml
+D:\Desktop\Monolito_4am\Monolito_4am\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\Desktop\Monolito_4am\Monolito_4am\bin\System.IO.Pipelines.xml
+D:\Desktop\Monolito_4am\Monolito_4am\bin\System.Memory.xml
+D:\Desktop\Monolito_4am\Monolito_4am\bin\System.Numerics.Vectors.xml
+D:\Desktop\Monolito_4am\Monolito_4am\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Desktop\Monolito_4am\Monolito_4am\bin\System.Text.Encodings.Web.xml
+D:\Desktop\Monolito_4am\Monolito_4am\bin\System.Text.Json.xml
+D:\Desktop\Monolito_4am\Monolito_4am\bin\System.Threading.Tasks.Extensions.xml
+D:\Desktop\Monolito_4am\Monolito_4am\bin\System.Web.Optimization.xml
+D:\Desktop\Monolito_4am\Monolito_4am\bin\Twilio.xml
+D:\Desktop\Monolito_4am\Monolito_4am\bin\Antlr3.Runtime.pdb
+D:\Desktop\Monolito_4am\Monolito_4am\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Desktop\Monolito_4am\Monolito_4am\bin\es\System.Web.Optimization.resources.dll
+D:\Desktop\Monolito_4am\Monolito_4am\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+D:\Desktop\Monolito_4am\Monolito_4am\obj\Debug\Monolito_4am.csproj.AssemblyReference.cache
+D:\Desktop\Monolito_4am\Monolito_4am\obj\Debug\Monolito_4am.csproj.CoreCompileInputs.cache
+D:\Desktop\Monolito_4am\Monolito_4am\obj\Debug\Monolito.B328F4D0.Up2Date
+D:\Desktop\Monolito_4am\Monolito_4am\obj\Debug\Monolito_4am.dll
+D:\Desktop\Monolito_4am\Monolito_4am\obj\Debug\Monolito_4am.pdb
+C:\Users\User\Desktop\Monolito_4am\Monolito_4am\Monolito_4am\obj\Debug\Monolito_4am.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Monolito_4am\Monolito_4am\Monolito_4am\obj\Debug\Monolito_4am.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Monolito_4am\Monolito_4am\Monolito_4am\obj\Debug\Monolito_4am.dll
+C:\Users\User\Desktop\Monolito_4am\Monolito_4am\Monolito_4am\obj\Debug\Monolito_4am.pdb
+C:\Users\User\source\4A\Monolito_4am\Monolito_4am\bin\Monolito_4am.dll.config
+C:\Users\User\source\4A\Monolito_4am\Monolito_4am\bin\Monolito_4am.dll
+C:\Users\User\source\4A\Monolito_4am\Monolito_4am\bin\Monolito_4am.pdb
+C:\Users\User\source\4A\Monolito_4am\Monolito_4am\bin\roslyn\csc.exe
+C:\Users\User\source\4A\Monolito_4am\Monolito_4am\bin\roslyn\csc.exe.config
+C:\Users\User\source\4A\Monolito_4am\Monolito_4am\bin\roslyn\csc.rsp
+C:\Users\User\source\4A\Monolito_4am\Monolito_4am\bin\roslyn\csi.exe
+C:\Users\User\source\4A\Monolito_4am\Monolito_4am\bin\roslyn\csi.exe.config
+C:\Users\User\source\4A\Monolito_4am\Monolito_4am\bin\roslyn\csi.rsp
+C:\Users\User\source\4A\Monolito_4am\Monolito_4am\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\source\4A\Monolito_4am\Monolito_4am\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\source\4A\Monolito_4am\Monolito_4am\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\source\4A\Monolito_4am\Monolito_4am\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\source\4A\Monolito_4am\Monolito_4am\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\source\4A\Monolito_4am\Monolito_4am\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\source\4A\Monolito_4am\Monolito_4am\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\source\4A\Monolito_4am\Monolito_4am\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\source\4A\Monolito_4am\Monolito_4am\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User\source\4A\Monolito_4am\Monolito_4am\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+C:\Users\User\source\4A\Monolito_4am\Monolito_4am\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\User\source\4A\Monolito_4am\Monolito_4am\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\source\4A\Monolito_4am\Monolito_4am\bin\roslyn\System.Buffers.dll
+C:\Users\User\source\4A\Monolito_4am\Monolito_4am\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\source\4A\Monolito_4am\Monolito_4am\bin\roslyn\System.Memory.dll
+C:\Users\User\source\4A\Monolito_4am\Monolito_4am\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\User\source\4A\Monolito_4am\Monolito_4am\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\source\4A\Monolito_4am\Monolito_4am\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\source\4A\Monolito_4am\Monolito_4am\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\User\source\4A\Monolito_4am\Monolito_4am\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\User\source\4A\Monolito_4am\Monolito_4am\bin\roslyn\vbc.exe
+C:\Users\User\source\4A\Monolito_4am\Monolito_4am\bin\roslyn\vbc.exe.config
+C:\Users\User\source\4A\Monolito_4am\Monolito_4am\bin\roslyn\vbc.rsp
+C:\Users\User\source\4A\Monolito_4am\Monolito_4am\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\source\4A\Monolito_4am\Monolito_4am\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\source\4A\Monolito_4am\Monolito_4am\bin\Antlr3.Runtime.dll
+C:\Users\User\source\4A\Monolito_4am\Monolito_4am\bin\Capa_Datos.dll
+C:\Users\User\source\4A\Monolito_4am\Monolito_4am\bin\Capa_Negocio.dll
+C:\Users\User\source\4A\Monolito_4am\Monolito_4am\bin\MessagingToolkit.QRCode.dll
+C:\Users\User\source\4A\Monolito_4am\Monolito_4am\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\User\source\4A\Monolito_4am\Monolito_4am\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\User\source\4A\Monolito_4am\Monolito_4am\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\source\4A\Monolito_4am\Monolito_4am\bin\Microsoft.Bcl.Memory.dll
+C:\Users\User\source\4A\Monolito_4am\Monolito_4am\bin\Microsoft.Bcl.TimeProvider.dll
+C:\Users\User\source\4A\Monolito_4am\Monolito_4am\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\source\4A\Monolito_4am\Monolito_4am\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\source\4A\Monolito_4am\Monolito_4am\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\source\4A\Monolito_4am\Monolito_4am\bin\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\User\source\4A\Monolito_4am\Monolito_4am\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\source\4A\Monolito_4am\Monolito_4am\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\source\4A\Monolito_4am\Monolito_4am\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\source\4A\Monolito_4am\Monolito_4am\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\User\source\4A\Monolito_4am\Monolito_4am\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\User\source\4A\Monolito_4am\Monolito_4am\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\source\4A\Monolito_4am\Monolito_4am\bin\Newtonsoft.Json.dll
+C:\Users\User\source\4A\Monolito_4am\Monolito_4am\bin\QRCoder.dll
+C:\Users\User\source\4A\Monolito_4am\Monolito_4am\bin\System.Buffers.dll
+C:\Users\User\source\4A\Monolito_4am\Monolito_4am\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\source\4A\Monolito_4am\Monolito_4am\bin\System.Drawing.Common.dll
+C:\Users\User\source\4A\Monolito_4am\Monolito_4am\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\source\4A\Monolito_4am\Monolito_4am\bin\System.IO.Pipelines.dll
+C:\Users\User\source\4A\Monolito_4am\Monolito_4am\bin\System.Memory.dll
+C:\Users\User\source\4A\Monolito_4am\Monolito_4am\bin\System.Numerics.Vectors.dll
+C:\Users\User\source\4A\Monolito_4am\Monolito_4am\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\source\4A\Monolito_4am\Monolito_4am\bin\System.Text.Encodings.Web.dll
+C:\Users\User\source\4A\Monolito_4am\Monolito_4am\bin\System.Text.Json.dll
+C:\Users\User\source\4A\Monolito_4am\Monolito_4am\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\User\source\4A\Monolito_4am\Monolito_4am\bin\System.Web.Optimization.dll
+C:\Users\User\source\4A\Monolito_4am\Monolito_4am\bin\Twilio.dll
+C:\Users\User\source\4A\Monolito_4am\Monolito_4am\bin\WebGrease.dll
+C:\Users\User\source\4A\Monolito_4am\Monolito_4am\bin\Capa_Datos.pdb
+C:\Users\User\source\4A\Monolito_4am\Monolito_4am\bin\Capa_Datos.dll.config
+C:\Users\User\source\4A\Monolito_4am\Monolito_4am\bin\Capa_Negocio.pdb
+C:\Users\User\source\4A\Monolito_4am\Monolito_4am\bin\Capa_Negocio.dll.config
+C:\Users\User\source\4A\Monolito_4am\Monolito_4am\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\User\source\4A\Monolito_4am\Monolito_4am\bin\Microsoft.Bcl.Memory.xml
+C:\Users\User\source\4A\Monolito_4am\Monolito_4am\bin\Microsoft.Bcl.TimeProvider.xml
+C:\Users\User\source\4A\Monolito_4am\Monolito_4am\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\source\4A\Monolito_4am\Monolito_4am\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\User\source\4A\Monolito_4am\Monolito_4am\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\User\source\4A\Monolito_4am\Monolito_4am\bin\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\User\source\4A\Monolito_4am\Monolito_4am\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\User\source\4A\Monolito_4am\Monolito_4am\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\User\source\4A\Monolito_4am\Monolito_4am\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\User\source\4A\Monolito_4am\Monolito_4am\bin\Newtonsoft.Json.xml
+C:\Users\User\source\4A\Monolito_4am\Monolito_4am\bin\QRCoder.xml
+C:\Users\User\source\4A\Monolito_4am\Monolito_4am\bin\System.Buffers.xml
+C:\Users\User\source\4A\Monolito_4am\Monolito_4am\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\User\source\4A\Monolito_4am\Monolito_4am\bin\System.Drawing.Common.pdb
+C:\Users\User\source\4A\Monolito_4am\Monolito_4am\bin\System.Drawing.Common.xml
+C:\Users\User\source\4A\Monolito_4am\Monolito_4am\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\User\source\4A\Monolito_4am\Monolito_4am\bin\System.IO.Pipelines.xml
+C:\Users\User\source\4A\Monolito_4am\Monolito_4am\bin\System.Memory.xml
+C:\Users\User\source\4A\Monolito_4am\Monolito_4am\bin\System.Numerics.Vectors.xml
+C:\Users\User\source\4A\Monolito_4am\Monolito_4am\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\source\4A\Monolito_4am\Monolito_4am\bin\System.Text.Encodings.Web.xml
+C:\Users\User\source\4A\Monolito_4am\Monolito_4am\bin\System.Text.Json.xml
+C:\Users\User\source\4A\Monolito_4am\Monolito_4am\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\User\source\4A\Monolito_4am\Monolito_4am\bin\System.Web.Optimization.xml
+C:\Users\User\source\4A\Monolito_4am\Monolito_4am\bin\Twilio.xml
+C:\Users\User\source\4A\Monolito_4am\Monolito_4am\bin\Antlr3.Runtime.pdb
+C:\Users\User\source\4A\Monolito_4am\Monolito_4am\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\User\source\4A\Monolito_4am\Monolito_4am\bin\es\System.Web.Optimization.resources.dll
+C:\Users\User\source\4A\Monolito_4am\Monolito_4am\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\User\source\4A\Monolito_4am\Monolito_4am\obj\Debug\Monolito_4am.csproj.AssemblyReference.cache
+C:\Users\User\source\4A\Monolito_4am\Monolito_4am\obj\Debug\Monolito_4am.csproj.CoreCompileInputs.cache
+C:\Users\User\source\4A\Monolito_4am\Monolito_4am\obj\Debug\Monolito.B328F4D0.Up2Date
+C:\Users\User\source\4A\Monolito_4am\Monolito_4am\obj\Debug\Monolito_4am.dll
+C:\Users\User\source\4A\Monolito_4am\Monolito_4am\obj\Debug\Monolito_4am.pdb
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Monolito_4am\bin\Monolito_4am.dll.config
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Monolito_4am\bin\Monolito_4am.dll
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Monolito_4am\bin\Monolito_4am.pdb
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Monolito_4am\bin\roslyn\csc.exe
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Monolito_4am\bin\roslyn\csc.exe.config
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Monolito_4am\bin\roslyn\csc.rsp
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Monolito_4am\bin\roslyn\csi.exe
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Monolito_4am\bin\roslyn\csi.exe.config
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Monolito_4am\bin\roslyn\csi.rsp
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Monolito_4am\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Monolito_4am\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Monolito_4am\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Monolito_4am\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Monolito_4am\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Monolito_4am\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Monolito_4am\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Monolito_4am\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Monolito_4am\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Monolito_4am\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Monolito_4am\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Monolito_4am\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Monolito_4am\bin\roslyn\System.Buffers.dll
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Monolito_4am\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Monolito_4am\bin\roslyn\System.Memory.dll
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Monolito_4am\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Monolito_4am\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Monolito_4am\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Monolito_4am\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Monolito_4am\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Monolito_4am\bin\roslyn\vbc.exe
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Monolito_4am\bin\roslyn\vbc.exe.config
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Monolito_4am\bin\roslyn\vbc.rsp
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Monolito_4am\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Monolito_4am\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Monolito_4am\bin\Antlr3.Runtime.dll
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Monolito_4am\bin\Capa_Datos.dll
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Monolito_4am\bin\Capa_Negocio.dll
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Monolito_4am\bin\DnsClient.dll
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Monolito_4am\bin\MessagingToolkit.QRCode.dll
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Monolito_4am\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Monolito_4am\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Monolito_4am\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Monolito_4am\bin\Microsoft.Bcl.Memory.dll
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Monolito_4am\bin\Microsoft.Bcl.TimeProvider.dll
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Monolito_4am\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Monolito_4am\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Monolito_4am\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Monolito_4am\bin\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Monolito_4am\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Monolito_4am\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Monolito_4am\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Monolito_4am\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Monolito_4am\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Monolito_4am\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Monolito_4am\bin\Microsoft.Win32.Registry.dll
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Monolito_4am\bin\MongoDB.Bson.dll
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Monolito_4am\bin\MongoDB.Driver.dll
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Monolito_4am\bin\Newtonsoft.Json.dll
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Monolito_4am\bin\QRCoder.dll
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Monolito_4am\bin\SharpCompress.dll
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Monolito_4am\bin\Snappier.dll
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Monolito_4am\bin\System.Buffers.dll
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Monolito_4am\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Monolito_4am\bin\System.Drawing.Common.dll
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Monolito_4am\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Monolito_4am\bin\System.IO.Pipelines.dll
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Monolito_4am\bin\System.Memory.dll
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Monolito_4am\bin\System.Numerics.Vectors.dll
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Monolito_4am\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Monolito_4am\bin\System.Security.AccessControl.dll
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Monolito_4am\bin\System.Security.Principal.Windows.dll
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Monolito_4am\bin\System.Text.Encoding.CodePages.dll
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Monolito_4am\bin\System.Text.Encodings.Web.dll
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Monolito_4am\bin\System.Text.Json.dll
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Monolito_4am\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Monolito_4am\bin\System.Web.Optimization.dll
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Monolito_4am\bin\Twilio.dll
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Monolito_4am\bin\WebGrease.dll
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Monolito_4am\bin\ZstdSharp.dll
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Monolito_4am\bin\Capa_Datos.pdb
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Monolito_4am\bin\Capa_Datos.dll.config
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Monolito_4am\bin\Capa_Negocio.pdb
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Monolito_4am\bin\Capa_Negocio.dll.config
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Monolito_4am\bin\DnsClient.xml
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Monolito_4am\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Monolito_4am\bin\Microsoft.Bcl.Memory.xml
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Monolito_4am\bin\Microsoft.Bcl.TimeProvider.xml
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Monolito_4am\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Monolito_4am\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Monolito_4am\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Monolito_4am\bin\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Monolito_4am\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Monolito_4am\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Monolito_4am\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Monolito_4am\bin\Microsoft.Win32.Registry.xml
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Monolito_4am\bin\MongoDB.Bson.xml
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Monolito_4am\bin\MongoDB.Driver.xml
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Monolito_4am\bin\Newtonsoft.Json.xml
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Monolito_4am\bin\QRCoder.xml
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Monolito_4am\bin\Snappier.xml
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Monolito_4am\bin\System.Buffers.xml
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Monolito_4am\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Monolito_4am\bin\System.Drawing.Common.pdb
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Monolito_4am\bin\System.Drawing.Common.xml
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Monolito_4am\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Monolito_4am\bin\System.IO.Pipelines.xml
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Monolito_4am\bin\System.Memory.xml
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Monolito_4am\bin\System.Numerics.Vectors.xml
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Monolito_4am\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Monolito_4am\bin\System.Security.AccessControl.xml
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Monolito_4am\bin\System.Security.Principal.Windows.xml
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Monolito_4am\bin\System.Text.Encoding.CodePages.xml
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Monolito_4am\bin\System.Text.Encodings.Web.xml
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Monolito_4am\bin\System.Text.Json.xml
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Monolito_4am\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Monolito_4am\bin\System.Web.Optimization.xml
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Monolito_4am\bin\Twilio.xml
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Monolito_4am\bin\Antlr3.Runtime.pdb
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Monolito_4am\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Monolito_4am\bin\es\System.Web.Optimization.resources.dll
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Monolito_4am\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Monolito_4am\obj\Debug\Monolito_4am.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Monolito_4am\obj\Debug\Monolito_4am.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Monolito_4am\obj\Debug\Monolito.B328F4D0.Up2Date
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Monolito_4am\obj\Debug\Monolito_4am.dll
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Monolito_4am\obj\Debug\Monolito_4am.pdb

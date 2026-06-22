@@ -1,0 +1,248 @@
+D:\DESCARGAS\.NET PRA\Monolito_4am\Capa_Negocio\bin\Debug\Capa_Negocio.dll
+D:\DESCARGAS\.NET PRA\Monolito_4am\Capa_Negocio\bin\Debug\Capa_Negocio.pdb
+D:\DESCARGAS\.NET PRA\Monolito_4am\Capa_Negocio\bin\Debug\Capa_Datos.dll
+D:\DESCARGAS\.NET PRA\Monolito_4am\Capa_Negocio\bin\Debug\Capa_Datos.pdb
+D:\DESCARGAS\.NET PRA\Monolito_4am\Capa_Negocio\bin\Debug\Capa_Datos.dll.config
+D:\DESCARGAS\.NET PRA\Monolito_4am\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.AssemblyReference.cache
+D:\DESCARGAS\.NET PRA\Monolito_4am\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.CoreCompileInputs.cache
+D:\DESCARGAS\.NET PRA\Monolito_4am\Capa_Negocio\obj\Debug\Capa_Neg.64FC8661.Up2Date
+D:\DESCARGAS\.NET PRA\Monolito_4am\Capa_Negocio\obj\Debug\Capa_Negocio.dll
+D:\DESCARGAS\.NET PRA\Monolito_4am\Capa_Negocio\obj\Debug\Capa_Negocio.pdb
+D:\Desktop\Monolito_4am\Capa_Negocio\bin\Debug\Capa_Negocio.dll.config
+D:\Desktop\Monolito_4am\Capa_Negocio\bin\Debug\Capa_Negocio.dll
+D:\Desktop\Monolito_4am\Capa_Negocio\bin\Debug\Capa_Negocio.pdb
+D:\Desktop\Monolito_4am\Capa_Negocio\bin\Debug\Capa_Datos.dll
+D:\Desktop\Monolito_4am\Capa_Negocio\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Desktop\Monolito_4am\Capa_Negocio\bin\Debug\Microsoft.Bcl.Memory.dll
+D:\Desktop\Monolito_4am\Capa_Negocio\bin\Debug\Microsoft.Bcl.TimeProvider.dll
+D:\Desktop\Monolito_4am\Capa_Negocio\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Desktop\Monolito_4am\Capa_Negocio\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Desktop\Monolito_4am\Capa_Negocio\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+D:\Desktop\Monolito_4am\Capa_Negocio\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Desktop\Monolito_4am\Capa_Negocio\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\Desktop\Monolito_4am\Capa_Negocio\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\Desktop\Monolito_4am\Capa_Negocio\bin\Debug\Newtonsoft.Json.dll
+D:\Desktop\Monolito_4am\Capa_Negocio\bin\Debug\QRCoder.dll
+D:\Desktop\Monolito_4am\Capa_Negocio\bin\Debug\System.Buffers.dll
+D:\Desktop\Monolito_4am\Capa_Negocio\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Desktop\Monolito_4am\Capa_Negocio\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\Desktop\Monolito_4am\Capa_Negocio\bin\Debug\System.IO.Pipelines.dll
+D:\Desktop\Monolito_4am\Capa_Negocio\bin\Debug\System.Memory.dll
+D:\Desktop\Monolito_4am\Capa_Negocio\bin\Debug\System.Numerics.Vectors.dll
+D:\Desktop\Monolito_4am\Capa_Negocio\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Desktop\Monolito_4am\Capa_Negocio\bin\Debug\System.Text.Encodings.Web.dll
+D:\Desktop\Monolito_4am\Capa_Negocio\bin\Debug\System.Text.Json.dll
+D:\Desktop\Monolito_4am\Capa_Negocio\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Desktop\Monolito_4am\Capa_Negocio\bin\Debug\Twilio.dll
+D:\Desktop\Monolito_4am\Capa_Negocio\bin\Debug\Capa_Datos.pdb
+D:\Desktop\Monolito_4am\Capa_Negocio\bin\Debug\Capa_Datos.dll.config
+D:\Desktop\Monolito_4am\Capa_Negocio\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Desktop\Monolito_4am\Capa_Negocio\bin\Debug\Microsoft.Bcl.Memory.xml
+D:\Desktop\Monolito_4am\Capa_Negocio\bin\Debug\Microsoft.Bcl.TimeProvider.xml
+D:\Desktop\Monolito_4am\Capa_Negocio\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Desktop\Monolito_4am\Capa_Negocio\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Desktop\Monolito_4am\Capa_Negocio\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+D:\Desktop\Monolito_4am\Capa_Negocio\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\Desktop\Monolito_4am\Capa_Negocio\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\Desktop\Monolito_4am\Capa_Negocio\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\Desktop\Monolito_4am\Capa_Negocio\bin\Debug\Newtonsoft.Json.xml
+D:\Desktop\Monolito_4am\Capa_Negocio\bin\Debug\QRCoder.xml
+D:\Desktop\Monolito_4am\Capa_Negocio\bin\Debug\System.Buffers.xml
+D:\Desktop\Monolito_4am\Capa_Negocio\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Desktop\Monolito_4am\Capa_Negocio\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\Desktop\Monolito_4am\Capa_Negocio\bin\Debug\System.IO.Pipelines.xml
+D:\Desktop\Monolito_4am\Capa_Negocio\bin\Debug\System.Memory.xml
+D:\Desktop\Monolito_4am\Capa_Negocio\bin\Debug\System.Numerics.Vectors.xml
+D:\Desktop\Monolito_4am\Capa_Negocio\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Desktop\Monolito_4am\Capa_Negocio\bin\Debug\System.Text.Encodings.Web.xml
+D:\Desktop\Monolito_4am\Capa_Negocio\bin\Debug\System.Text.Json.xml
+D:\Desktop\Monolito_4am\Capa_Negocio\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Desktop\Monolito_4am\Capa_Negocio\bin\Debug\Twilio.xml
+D:\Desktop\Monolito_4am\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.AssemblyReference.cache
+D:\Desktop\Monolito_4am\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.CoreCompileInputs.cache
+D:\Desktop\Monolito_4am\Capa_Negocio\obj\Debug\Capa_Neg.64FC8661.Up2Date
+D:\Desktop\Monolito_4am\Capa_Negocio\obj\Debug\Capa_Negocio.dll
+D:\Desktop\Monolito_4am\Capa_Negocio\obj\Debug\Capa_Negocio.pdb
+C:\Users\User\Desktop\Monolito_4am\Monolito_4am\Capa_Negocio\bin\Debug\Capa_Negocio.dll.config
+C:\Users\User\Desktop\Monolito_4am\Monolito_4am\Capa_Negocio\bin\Debug\Capa_Negocio.dll
+C:\Users\User\Desktop\Monolito_4am\Monolito_4am\Capa_Negocio\bin\Debug\Capa_Negocio.pdb
+C:\Users\User\Desktop\Monolito_4am\Monolito_4am\Capa_Negocio\bin\Debug\Capa_Datos.dll
+C:\Users\User\Desktop\Monolito_4am\Monolito_4am\Capa_Negocio\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Desktop\Monolito_4am\Monolito_4am\Capa_Negocio\bin\Debug\Microsoft.Bcl.Memory.dll
+C:\Users\User\Desktop\Monolito_4am\Monolito_4am\Capa_Negocio\bin\Debug\Microsoft.Bcl.TimeProvider.dll
+C:\Users\User\Desktop\Monolito_4am\Monolito_4am\Capa_Negocio\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Desktop\Monolito_4am\Monolito_4am\Capa_Negocio\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Desktop\Monolito_4am\Monolito_4am\Capa_Negocio\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\User\Desktop\Monolito_4am\Monolito_4am\Capa_Negocio\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Desktop\Monolito_4am\Monolito_4am\Capa_Negocio\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Desktop\Monolito_4am\Monolito_4am\Capa_Negocio\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Desktop\Monolito_4am\Monolito_4am\Capa_Negocio\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\Monolito_4am\Monolito_4am\Capa_Negocio\bin\Debug\QRCoder.dll
+C:\Users\User\Desktop\Monolito_4am\Monolito_4am\Capa_Negocio\bin\Debug\System.Buffers.dll
+C:\Users\User\Desktop\Monolito_4am\Monolito_4am\Capa_Negocio\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\Monolito_4am\Monolito_4am\Capa_Negocio\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Desktop\Monolito_4am\Monolito_4am\Capa_Negocio\bin\Debug\System.IO.Pipelines.dll
+C:\Users\User\Desktop\Monolito_4am\Monolito_4am\Capa_Negocio\bin\Debug\System.Memory.dll
+C:\Users\User\Desktop\Monolito_4am\Monolito_4am\Capa_Negocio\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\Desktop\Monolito_4am\Monolito_4am\Capa_Negocio\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Desktop\Monolito_4am\Monolito_4am\Capa_Negocio\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\User\Desktop\Monolito_4am\Monolito_4am\Capa_Negocio\bin\Debug\System.Text.Json.dll
+C:\Users\User\Desktop\Monolito_4am\Monolito_4am\Capa_Negocio\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Desktop\Monolito_4am\Monolito_4am\Capa_Negocio\bin\Debug\Twilio.dll
+C:\Users\User\Desktop\Monolito_4am\Monolito_4am\Capa_Negocio\bin\Debug\Capa_Datos.pdb
+C:\Users\User\Desktop\Monolito_4am\Monolito_4am\Capa_Negocio\bin\Debug\Capa_Datos.dll.config
+C:\Users\User\Desktop\Monolito_4am\Monolito_4am\Capa_Negocio\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\User\Desktop\Monolito_4am\Monolito_4am\Capa_Negocio\bin\Debug\Microsoft.Bcl.Memory.xml
+C:\Users\User\Desktop\Monolito_4am\Monolito_4am\Capa_Negocio\bin\Debug\Microsoft.Bcl.TimeProvider.xml
+C:\Users\User\Desktop\Monolito_4am\Monolito_4am\Capa_Negocio\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\User\Desktop\Monolito_4am\Monolito_4am\Capa_Negocio\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\User\Desktop\Monolito_4am\Monolito_4am\Capa_Negocio\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\User\Desktop\Monolito_4am\Monolito_4am\Capa_Negocio\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\User\Desktop\Monolito_4am\Monolito_4am\Capa_Negocio\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\User\Desktop\Monolito_4am\Monolito_4am\Capa_Negocio\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\User\Desktop\Monolito_4am\Monolito_4am\Capa_Negocio\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Desktop\Monolito_4am\Monolito_4am\Capa_Negocio\bin\Debug\QRCoder.xml
+C:\Users\User\Desktop\Monolito_4am\Monolito_4am\Capa_Negocio\bin\Debug\System.Buffers.xml
+C:\Users\User\Desktop\Monolito_4am\Monolito_4am\Capa_Negocio\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\User\Desktop\Monolito_4am\Monolito_4am\Capa_Negocio\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\User\Desktop\Monolito_4am\Monolito_4am\Capa_Negocio\bin\Debug\System.IO.Pipelines.xml
+C:\Users\User\Desktop\Monolito_4am\Monolito_4am\Capa_Negocio\bin\Debug\System.Memory.xml
+C:\Users\User\Desktop\Monolito_4am\Monolito_4am\Capa_Negocio\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\Desktop\Monolito_4am\Monolito_4am\Capa_Negocio\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Desktop\Monolito_4am\Monolito_4am\Capa_Negocio\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\User\Desktop\Monolito_4am\Monolito_4am\Capa_Negocio\bin\Debug\System.Text.Json.xml
+C:\Users\User\Desktop\Monolito_4am\Monolito_4am\Capa_Negocio\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\User\Desktop\Monolito_4am\Monolito_4am\Capa_Negocio\bin\Debug\Twilio.xml
+C:\Users\User\Desktop\Monolito_4am\Monolito_4am\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Monolito_4am\Monolito_4am\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Monolito_4am\Monolito_4am\Capa_Negocio\obj\Debug\Capa_Neg.64FC8661.Up2Date
+C:\Users\User\Desktop\Monolito_4am\Monolito_4am\Capa_Negocio\obj\Debug\Capa_Negocio.dll
+C:\Users\User\Desktop\Monolito_4am\Monolito_4am\Capa_Negocio\obj\Debug\Capa_Negocio.pdb
+C:\Users\User\source\4A\Monolito_4am\Capa_Negocio\bin\Debug\Capa_Negocio.dll.config
+C:\Users\User\source\4A\Monolito_4am\Capa_Negocio\bin\Debug\Capa_Negocio.dll
+C:\Users\User\source\4A\Monolito_4am\Capa_Negocio\bin\Debug\Capa_Negocio.pdb
+C:\Users\User\source\4A\Monolito_4am\Capa_Negocio\bin\Debug\Capa_Datos.dll
+C:\Users\User\source\4A\Monolito_4am\Capa_Negocio\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\source\4A\Monolito_4am\Capa_Negocio\bin\Debug\Microsoft.Bcl.Memory.dll
+C:\Users\User\source\4A\Monolito_4am\Capa_Negocio\bin\Debug\Microsoft.Bcl.TimeProvider.dll
+C:\Users\User\source\4A\Monolito_4am\Capa_Negocio\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\source\4A\Monolito_4am\Capa_Negocio\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\source\4A\Monolito_4am\Capa_Negocio\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\User\source\4A\Monolito_4am\Capa_Negocio\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\source\4A\Monolito_4am\Capa_Negocio\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\source\4A\Monolito_4am\Capa_Negocio\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\source\4A\Monolito_4am\Capa_Negocio\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\source\4A\Monolito_4am\Capa_Negocio\bin\Debug\QRCoder.dll
+C:\Users\User\source\4A\Monolito_4am\Capa_Negocio\bin\Debug\System.Buffers.dll
+C:\Users\User\source\4A\Monolito_4am\Capa_Negocio\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\source\4A\Monolito_4am\Capa_Negocio\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\source\4A\Monolito_4am\Capa_Negocio\bin\Debug\System.IO.Pipelines.dll
+C:\Users\User\source\4A\Monolito_4am\Capa_Negocio\bin\Debug\System.Memory.dll
+C:\Users\User\source\4A\Monolito_4am\Capa_Negocio\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\source\4A\Monolito_4am\Capa_Negocio\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\source\4A\Monolito_4am\Capa_Negocio\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\User\source\4A\Monolito_4am\Capa_Negocio\bin\Debug\System.Text.Json.dll
+C:\Users\User\source\4A\Monolito_4am\Capa_Negocio\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\User\source\4A\Monolito_4am\Capa_Negocio\bin\Debug\Twilio.dll
+C:\Users\User\source\4A\Monolito_4am\Capa_Negocio\bin\Debug\Capa_Datos.pdb
+C:\Users\User\source\4A\Monolito_4am\Capa_Negocio\bin\Debug\Capa_Datos.dll.config
+C:\Users\User\source\4A\Monolito_4am\Capa_Negocio\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\User\source\4A\Monolito_4am\Capa_Negocio\bin\Debug\Microsoft.Bcl.Memory.xml
+C:\Users\User\source\4A\Monolito_4am\Capa_Negocio\bin\Debug\Microsoft.Bcl.TimeProvider.xml
+C:\Users\User\source\4A\Monolito_4am\Capa_Negocio\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\User\source\4A\Monolito_4am\Capa_Negocio\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\User\source\4A\Monolito_4am\Capa_Negocio\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\User\source\4A\Monolito_4am\Capa_Negocio\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\User\source\4A\Monolito_4am\Capa_Negocio\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\User\source\4A\Monolito_4am\Capa_Negocio\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\User\source\4A\Monolito_4am\Capa_Negocio\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\source\4A\Monolito_4am\Capa_Negocio\bin\Debug\QRCoder.xml
+C:\Users\User\source\4A\Monolito_4am\Capa_Negocio\bin\Debug\System.Buffers.xml
+C:\Users\User\source\4A\Monolito_4am\Capa_Negocio\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\User\source\4A\Monolito_4am\Capa_Negocio\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\User\source\4A\Monolito_4am\Capa_Negocio\bin\Debug\System.IO.Pipelines.xml
+C:\Users\User\source\4A\Monolito_4am\Capa_Negocio\bin\Debug\System.Memory.xml
+C:\Users\User\source\4A\Monolito_4am\Capa_Negocio\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\source\4A\Monolito_4am\Capa_Negocio\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\source\4A\Monolito_4am\Capa_Negocio\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\User\source\4A\Monolito_4am\Capa_Negocio\bin\Debug\System.Text.Json.xml
+C:\Users\User\source\4A\Monolito_4am\Capa_Negocio\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\User\source\4A\Monolito_4am\Capa_Negocio\bin\Debug\Twilio.xml
+C:\Users\User\source\4A\Monolito_4am\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.AssemblyReference.cache
+C:\Users\User\source\4A\Monolito_4am\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.CoreCompileInputs.cache
+C:\Users\User\source\4A\Monolito_4am\Capa_Negocio\obj\Debug\Capa_Neg.64FC8661.Up2Date
+C:\Users\User\source\4A\Monolito_4am\Capa_Negocio\obj\Debug\Capa_Negocio.dll
+C:\Users\User\source\4A\Monolito_4am\Capa_Negocio\obj\Debug\Capa_Negocio.pdb
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Capa_Negocio\bin\Debug\Capa_Negocio.dll.config
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Capa_Negocio\bin\Debug\Capa_Negocio.dll
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Capa_Negocio\bin\Debug\Capa_Negocio.pdb
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Capa_Negocio\bin\Debug\Capa_Datos.dll
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Capa_Negocio\bin\Debug\DnsClient.dll
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Capa_Negocio\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Capa_Negocio\bin\Debug\Microsoft.Bcl.Memory.dll
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Capa_Negocio\bin\Debug\Microsoft.Bcl.TimeProvider.dll
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Capa_Negocio\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Capa_Negocio\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Capa_Negocio\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Capa_Negocio\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Capa_Negocio\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Capa_Negocio\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Capa_Negocio\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Capa_Negocio\bin\Debug\MongoDB.Bson.dll
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Capa_Negocio\bin\Debug\MongoDB.Driver.dll
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Capa_Negocio\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Capa_Negocio\bin\Debug\QRCoder.dll
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Capa_Negocio\bin\Debug\SharpCompress.dll
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Capa_Negocio\bin\Debug\Snappier.dll
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Capa_Negocio\bin\Debug\System.Buffers.dll
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Capa_Negocio\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Capa_Negocio\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Capa_Negocio\bin\Debug\System.IO.Pipelines.dll
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Capa_Negocio\bin\Debug\System.Memory.dll
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Capa_Negocio\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Capa_Negocio\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Capa_Negocio\bin\Debug\System.Security.AccessControl.dll
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Capa_Negocio\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Capa_Negocio\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Capa_Negocio\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Capa_Negocio\bin\Debug\System.Text.Json.dll
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Capa_Negocio\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Capa_Negocio\bin\Debug\Twilio.dll
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Capa_Negocio\bin\Debug\ZstdSharp.dll
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Capa_Negocio\bin\Debug\Capa_Datos.pdb
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Capa_Negocio\bin\Debug\Capa_Datos.dll.config
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Capa_Negocio\bin\Debug\DnsClient.xml
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Capa_Negocio\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Capa_Negocio\bin\Debug\Microsoft.Bcl.Memory.xml
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Capa_Negocio\bin\Debug\Microsoft.Bcl.TimeProvider.xml
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Capa_Negocio\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Capa_Negocio\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Capa_Negocio\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Capa_Negocio\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Capa_Negocio\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Capa_Negocio\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Capa_Negocio\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Capa_Negocio\bin\Debug\MongoDB.Bson.xml
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Capa_Negocio\bin\Debug\MongoDB.Driver.xml
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Capa_Negocio\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Capa_Negocio\bin\Debug\QRCoder.xml
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Capa_Negocio\bin\Debug\Snappier.xml
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Capa_Negocio\bin\Debug\System.Buffers.xml
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Capa_Negocio\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Capa_Negocio\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Capa_Negocio\bin\Debug\System.IO.Pipelines.xml
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Capa_Negocio\bin\Debug\System.Memory.xml
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Capa_Negocio\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Capa_Negocio\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Capa_Negocio\bin\Debug\System.Security.AccessControl.xml
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Capa_Negocio\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Capa_Negocio\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Capa_Negocio\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Capa_Negocio\bin\Debug\System.Text.Json.xml
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Capa_Negocio\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Capa_Negocio\bin\Debug\Twilio.xml
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Capa_Negocio\obj\Debug\Capa_Neg.64FC8661.Up2Date
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Capa_Negocio\obj\Debug\Capa_Negocio.dll
+C:\Users\User\Desktop\Respaldo Monolito\Monolito_4am\Monolito_4am\Capa_Negocio\obj\Debug\Capa_Negocio.pdb

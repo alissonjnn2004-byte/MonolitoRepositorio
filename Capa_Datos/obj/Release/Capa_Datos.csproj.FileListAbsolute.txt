@@ -1,0 +1,7 @@
+D:\Desktop\Monolito_4am\Capa_Datos\bin\Release\Capa_Datos.dll.config
+D:\Desktop\Monolito_4am\Capa_Datos\bin\Release\Capa_Datos.dll
+D:\Desktop\Monolito_4am\Capa_Datos\bin\Release\Capa_Datos.pdb
+D:\Desktop\Monolito_4am\Capa_Datos\obj\Release\Capa_Datos.csproj.AssemblyReference.cache
+D:\Desktop\Monolito_4am\Capa_Datos\obj\Release\Capa_Datos.csproj.CoreCompileInputs.cache
+D:\Desktop\Monolito_4am\Capa_Datos\obj\Release\Capa_Datos.dll
+D:\Desktop\Monolito_4am\Capa_Datos\obj\Release\Capa_Datos.pdb
