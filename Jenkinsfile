@@ -4,13 +4,12 @@ pipeline {
     }
 
     environment {
-        // Aseguramos el uso correcto de rutas en Windows (doble barra invertida para escapar en Jenkins)
-        MSBUILD = "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\MSBuild.exe"
+        // Cambiamos "2022" por "18" que es la ruta real de tu máquina
+        MSBUILD = "C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\MSBuild\\Current\\Bin\\MSBuild.exe"
         NUGET = "C:\\Herramientas\\nuget.exe"
         IIS_SITE_NAME = "Default Web Site/Monolito"
         PUBLISH_DIR = "C:\\inetpub\\wwwroot\\Monolito"
     }
-
     stages {
         stage('Restaurar paquetes NuGet') {
             steps {
