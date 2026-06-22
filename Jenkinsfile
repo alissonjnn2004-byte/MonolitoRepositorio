@@ -4,11 +4,11 @@ pipeline {
     }
 
     environment {
-    MSBUILD = "C:/Program Files/Microsoft Visual Studio/18/Community/MSBuild/Current/Bin/MSBuild.exe"
-    NUGET = "C:/Herramientas/nuget.exe"
-    IIS_SITE_NAME = "Default Web Site/Monolito"
-    PUBLISH_DIR = "C:/inetpub/wwwroot/Monolito"
-
+        // Aseguramos el uso correcto de rutas en Windows (doble barra invertida para escapar en Jenkins)
+        MSBUILD = "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\MSBuild.exe"
+        NUGET = "C:\\Herramientas\\nuget.exe"
+        IIS_SITE_NAME = "Default Web Site/Monolito"
+        PUBLISH_DIR = "C:\\inetpub\\wwwroot\\Monolito"
     }
 
     stages {
@@ -30,7 +30,6 @@ pipeline {
 
         stage('Ejecutar pruebas') {
             steps {
-                // Aquí deberás ajustar el comando si tienes un proyecto de pruebas (MSTest o NUnit)
                 echo 'Ejecutando pruebas... (Agrega el comando vstest.console.exe si corresponde)'
             }
         }
@@ -47,10 +46,17 @@ pipeline {
         stage('Desplegar en IIS') {
             steps {
                 script {
-                    // Copiar los archivos publicados a la carpeta de IIS
-                    // Se requiere que el agente de Jenkins se ejecute como Administrador para escribir en inetpub
+                    // 1. Asegurar que la carpeta de destino exista en inetpub usando PowerShell
+                    powershell """
+                        if (-not (Test-Path "${PUBLISH_DIR}")) {
+                            New-Item -ItemType Directory -Force -Path "${PUBLISH_DIR}"
+                            Write-Output "Carpeta creada exitosamente en inetpub."
+                        }
+                    """
+
+                    // 2. Copiar los archivos publicados utilizando rutas de Windows totalmente normalizadas
                     bat """
-                        xcopy "${env.WORKSPACE}\\publish\\*" "${PUBLISH_DIR}\\" /S /Y /I
+                        xcopy "${env.WORKSPACE}\\publish\\*" "${PUBLISH_DIR}\\" /S /Y /I /E
                     """
                 }
             }
